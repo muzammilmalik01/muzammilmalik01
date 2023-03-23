@@ -1,8 +1,6 @@
 <h1 align="center">Bonjour, Muhammad Muzamil here. 👾</h1>
 <h3 align="center">Aspiring computer scientist with an eye for stunning visuals and a passion for crafting beautiful code. 👨🏻‍💻</h3>
 
-<p align="left"> <a href="https://twitter.com/muzamil_dev" target="blank"><img src="https://img.shields.io/twitter/follow/muzamil_dev?logo=twitter&style=for-the-badge" alt="muzamil_dev" /></a> </p>
-
 - 🌱 I’m currently learning **IoT, AI, Mobile App Development**
 
 - 💬 Ask me about **Android Dev, React Native**
