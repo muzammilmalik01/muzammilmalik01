@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/muzamil_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muzamil_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-muzamil-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-muzamil-dev" height="30" width="40" /></a>
-<a href="https://instagram.com/muzammilmalik_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muzammilmalik_01" height="30" width="40" /></a>
+<a href="https://instagram.com/muzamil.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muzamil.py" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
