@@ -1,9 +1,9 @@
 <h1 align="center">Bonjour, Muhammad Muzamil here. 👾</h1>
 <h3 align="center">Aspiring computer scientist with an eye for stunning visuals and a passion for crafting beautiful code. 👨🏻‍💻</h3>
 
-- 🌱 I’m currently learning **IoT, AI, Mobile App Development**
+- 🌱 I’m currently learning **Mobile App Development, DJango and IoT**
 
-- 💬 Ask me about **Android Dev, React Native**
+- 💬 Ask me about **Mobile App Development, IoT  and Python**
 
 - ⚡ Fun fact **I'm a photographer too 👀, instagram.com/aestheticnigaary**
 
