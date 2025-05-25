@@ -1,13 +1,12 @@
 <h1 align="center">Bonjour, Muhammad Muzamil here. 👾</h1>
 <h3 align="center">Juggling Python Snakes, Mobile Pixels, and IoT Shenanigans – Where Bugs Fear to Roam and Code Gets a Sass Upgrade.</h3>
 
-- 🔭 I’m currently working on [Trivia Torque](https://www.linkedin.com/posts/muhammad-muzamil-dev_mobileappdevelopment-flutter-uiux-activity-7107233879337426944-eCXr?utm_source=share&utm_medium=member_desktop)
-
+- 🔭 I’m currently studying at FUAS
 - 🌱 I’m currently learning **DJango, Flutter, Android, Python, Dockers, AWS**
 
-- 📫 For any business queries **muzamil.py@proton.me**
+- 📫 Reach me out at **muzamil.py@proton.me**
 
-- ⚡ Fun fact **I'm a photographer too 👀, instagram.com/aestheticnigaary**
+- ⚡ Fun fact **I'm a photographer too 👀, instagram.com/muzamil.png**
 
 <h3 align="left"> Connect with me </h3>  
 <div align="left">
