@@ -105,10 +105,10 @@ Looking for projects, photoshoots, cyber warfare, or your next big hack? Just DM
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muzammil-malik-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-muzamil-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/a.photoguy/" target="_blank">
+  <a href="https://www.instagram.com/muzamil.png/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="mailto:muzamil.py@proton.me" target="_blank">
