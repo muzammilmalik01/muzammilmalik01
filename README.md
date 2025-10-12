@@ -36,9 +36,11 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hdrparrot.gif" width="40" />
   </p>
   <p align="center">
-    <a href="https://open.spotify.com/track/1vjHrH48y26d852g3c7aPq">
-      <img src="https://raw.githubusercontent.com/muzammilmalik01/muzammilmalik01/main/spotify-track.svg" alt="Spotify Now Playing" />
-    </a>
+    <p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uwjev6fistuimhf6xqsvqb2hse&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
     </p>
 </p>
 
