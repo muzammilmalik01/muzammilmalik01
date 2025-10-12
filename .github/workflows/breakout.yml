@@ -1,0 +1,22 @@
+name: Generate GitHub Contribution Breakout Game
+
+on:
+  # This runs the action automatically every day
+  schedule:
+    - cron: "0 0 * * *"
+  # This allows you to run the action manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Generate Contribution Breakout Game
+        uses: ys-j/github-contribution-breakout-game@v1.1.0
+        with:
+          # Your GitHub username
+          USER_NAME: muzammilmalik01
+          # The name of the output file
+          FILE_NAME: output/breakout.svg
