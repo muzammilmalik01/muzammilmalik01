@@ -122,6 +122,6 @@ Looking for projects, photoshoots, cyber warfare, or your next big hack? Just DM
 <img src="https://cultofthepartyparrot.com/parrots/shipitparrot.gif" width="40" />
 </p>
 
-> Powered by 🐧 Linux • Made with 🤍 by muzamil.py
+  Powered by 🐧 Linux • Made with 🤍 by muzamil.py
 
 </div>
