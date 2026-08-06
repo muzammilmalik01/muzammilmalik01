@@ -13,10 +13,7 @@
 
 ---
 <div align="center">
-<img width="150" height="150" alt="b4004b4fec5feaba-sticker" src="https://github.com/user-attachments/assets/e3a4f527-7ea9-454a-ac74-6b0056409cf1" />
 <img width="150" height="150" alt="faffc65eee936f0c-sticker" src="https://github.com/user-attachments/assets/e3ab6cb6-2828-48f8-ab26-57fb596f2690" />
-<img width="150" height="150" alt="571ad42b138bc591-sticker" src="https://github.com/user-attachments/assets/603a06dc-4920-4d85-a0d5-aaca850880b4" />
-
 </div>
 
 ### `> cat about_me.md`
